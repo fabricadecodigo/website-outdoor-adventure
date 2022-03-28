@@ -24,7 +24,6 @@ p {
 .background-overlay {
   background-color: var(--color-light-black);
   opacity: 0.65;
-  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
   position: absolute;
   height: 100%;
   width: 100%;
@@ -75,11 +74,11 @@ p {
 
 #page-header {
   position: relative;
+  background-color: var(--color-light-black);
   background-image: url("../images/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
-  background-color: #404040;
   padding: 20px;
 }
 
@@ -243,4 +242,3 @@ p {
 }
 
 /* upcoming tours end */
-
