@@ -39,7 +39,7 @@ p {
   max-width: 1024px;
 }
 
-.divider-sm {
+.divider {
   border: 1px solid var(--color-primary);
   width: 80px;
   margin: 20px auto;
@@ -179,7 +179,7 @@ p {
   text-align: left;
 }
 
-#explore-container .divider-sm {
+#explore-container .divider {
   margin: 20px 0;
 }
 
@@ -205,7 +205,7 @@ p {
   text-align: left;
 }
 
-#upcoming-tours .divider-sm {
+#upcoming-tours .divider {
   margin: 20px 0;
 }
 
